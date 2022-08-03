@@ -1,0 +1,35 @@
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.dll
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.pdb
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.dll
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.pdb
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.dll
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.pdb
+C:\Users\DUYMANH\Desktop\FILE hoc tap nam 3 ky 2\Phat trien phan mem\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.dll
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.pdb
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.dll
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.pdb
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.dll
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.pdb
+C:\Users\DUYMANH\Documents\GitHub\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.dll
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.pdb
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.dll
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.pdb
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.dll
+C:\Users\sword\OneDrive\Desktop\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.pdb
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.dll
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.pdb
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.dll
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.pdb
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.dll
+C:\Users\sword\OneDrive\Desktop\ShopThuCung\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.pdb
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.dll
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DAL.pdb
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.dll
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\bin\Debug\DTO.pdb
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.dll
+C:\Users\sword\OneDrive\Desktop\DA_LTCSHARP2_NHOM_02\3.Code\final_SHOPTHUCUNG\PETSHOP\DoAn_SHOPTHUCUNG\DAL\obj\Debug\DAL.pdb
